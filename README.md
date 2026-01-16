@@ -36,7 +36,7 @@ The Arduino program configures the selected pins as outputs. Inside the loop() f
 
 ## Source Code: 
 
-[Code](sketch.ino)
+[Code](src/sketch.ino)
  
 ## Results:
 
