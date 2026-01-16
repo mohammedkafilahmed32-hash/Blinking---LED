@@ -5,22 +5,6 @@ void setup() {
   pinMode(13, OUTPUT);
   }
 
-/*void loop() {
-  // put your main code here, to run repeatedly:
-  digitalWrite(12, HIGH);
-  delay(1000);
-  digitalWrite(12, LOW);
-  delay(1000);
-  digitalWrite(12, HIGH);
-  delay(500);
-  digitalWrite(12, LOW);
-  delay(500);
-  digitalWrite(12, HIGH);
-  delay(500);
-  digitalWrite(12, LOW);
-  delay(500);
-}*/
-
 void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(11, HIGH);
