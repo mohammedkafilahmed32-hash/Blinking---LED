@@ -88,7 +88,7 @@ Add push-button or sensor control
 Extend to traffic light or IoT applications 
 
 ## Circuit Diagram:
-[Screenshot 2026-01-16 183725.png]()    
+[Wokwi Circuit](wokwi-circuit.png)    
 
 ## Wokwi Simulation:
 Wokwi Project Link: https://wokwi.com/projects/453306385466180609 
