@@ -1,0 +1,25 @@
+# ===== Build outputs =====
+build/
+Debug/
+Release/
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+
+# ===== IDE files =====
+.vscode/**
+.idea/**
+.metadata/
+.settings/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== logs & temp =====
+*.log
+*.tmp
+*.bak
